@@ -12,7 +12,7 @@ const Card = (props) => {
                            alt="image"/>
                   </a>
 
-              <div className="input-group">
+              <div className="input-group mb-5">
                   <select className="custom-select" id="rating"
                           aria-label="Rate students from 1 - 5">
                       <option selected>Rate 1 - 5</option>
